@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bhairaveswar Reddy</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="lefr">Hi 👋, I'm Bhairaveswar Reddy</h1>
+<h3 align="left">A passionate frontend developer</h3>
 
 - 🌱 I’m currently learning **full Stack Development**
 
